@@ -2,7 +2,7 @@
 
 ## Description
   
-A tech blog that uses full stack webdevelopment
+A social media API using mongoose ORM and MongoDB
   
 ## Table of Contents 
   
@@ -24,8 +24,9 @@ A tech blog that uses full stack webdevelopment
   npm i
   
   
-  ## Usage
- 
+  ## Usage'
+  Video Link on how to use.
+ https://watch.screencastify.com/v/1kE7RXB1JFqB78Teuu5M
   ## License
 
   MIT
